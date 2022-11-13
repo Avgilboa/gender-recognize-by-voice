@@ -67,4 +67,4 @@ You can customize your model in [`utils.py`](utils.py) file under the `create_mo
 
     Wait until you see `"Please speak"` prompt and start talking, it will stop recording as long as you stop talking.
 
-    אביעד הוא המלך של העולם הזה!
+    אביעד ודביר הוא המלך של העולם הזה!
